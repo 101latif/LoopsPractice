@@ -42,6 +42,7 @@ for (i = 0; i <= 700; i++)
     console.log(i)
 console.log("********************************")
 
+//Problem 7
 console.log("-------Write a loop with some “if else” statements. The loop should start at 1900 and go to 1949 and log when things were invented. For example when i = 1902 the code should log “it is 1902 - the teddy bear is invented!”------")
 for (i = 1900; i <= 1949; i++) {
   if (i == 1900)
